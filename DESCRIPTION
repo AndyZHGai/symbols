@@ -1,0 +1,11 @@
+Package: symbols
+Type: Package
+Title: Useful symbols and point shapes for plots.
+Version: 0.0.1
+Author: Zhonghui Gai
+Maintainer: ZhonghuiGai <zhgai@aliyun.com>
+Description: Useful symbols and point shapes for plots.
+License: GLP-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
